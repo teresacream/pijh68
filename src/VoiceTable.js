@@ -6,7 +6,7 @@ import VoiceButton from './VoiceButton';
 function VoiceTable(props) {
   
   return (
-    <div className="VoiceButton">
+    <div className="VoiceTable">
       <table>
         <tbody>
           <tr>
